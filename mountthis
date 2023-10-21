@@ -1,0 +1,3 @@
+#!/bin/bash
+
+mount -o loop /home/sdb1.iso /mnt/mount_iso
